@@ -1,5 +1,4 @@
 <h1> Hello, Welcome to Valaxy Technologies !!! </h1>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
-<h4> my own addtion </h4>
-<h1> vhfhghvvhjvvh</h>
+<h1> latest info added </h1>
